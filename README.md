@@ -28,7 +28,9 @@ The biggest problem with the game now is that it does not run very well. There i
 Additionally, we are planning to get artists once the game is running a little better and we can live demo it, as a lot of the art is not finalized. In particular the Terminals, Keypad, and Documents. This still is a very early on work in progress.
 
 How to play it:
-We don't have a playable demo yet, but if you click the link at the top of the page it should take you to a video showing off some features in the game.
+We don't have a playable demo yet, but if you click the link at the top of the page or right under this it should take you to a video showing off some features in the game.
+
+Demo Video: https://1drv.ms/v/s!AsFPPxUmmu-T2mCOuDGQJr8lBlDF
 
 
 
