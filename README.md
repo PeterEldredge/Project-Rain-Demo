@@ -30,8 +30,5 @@ Additionally, we are planning to get artists once the game is running a little b
 How to play it:
 We don't have a playable demo yet, but if you click the link right under this it should take you to a video showing off some features in the game.
 
-Demo Video: https://1drv.ms/v/s!AsFPPxUmmu-T2mCOuDGQJr8lBlDF
-
-
-
-
+OneDrive Link: https://1drv.ms/v/s!AsFPPxUmmu-T2mCOuDGQJr8lBlDF
+Youtube Link: https://www.youtube.com/watch?v=n6aMEEaj5v8&feature=youtu.be
